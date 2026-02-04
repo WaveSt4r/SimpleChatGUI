@@ -18,6 +18,7 @@ The project uses a basic client–server model:
 - LAN (local network) chat support  
 - Real-time message exchange  
 - Uses standard Java networking (`Socket` / `ServerSocket`)
+- The windows and the GUI elements automatically scale based on your Display
 
 ## Requirements
 

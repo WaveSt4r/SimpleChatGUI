@@ -85,6 +85,12 @@ java ChatGUI
 
 - `DeprecatedChatConnectionGUI.java` is no longer used and can be ignored or removed
 - This project is intended for learning/demo purposes, not production use
+---
+
+## Future Ideas
+- Encryption
+- Users / Database
+- List of chat the user can enter (Chat List on the left, Chat content on the right)
 
 ---
 

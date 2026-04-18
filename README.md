@@ -21,7 +21,7 @@ It allows multiple users on the same network to connect to a server and chat in 
 ├── ThServer.java                   # Server thread handling incoming connections
 ├── ThClientManager.java            # Manages connected clients
 ├── ThClientMessageListener.java    # Listens for messages from server
-├── DeprecatedChatConnectionGUI.java # Old/unused connection GUI (deprecated)
+└── DeprecatedChatConnectionGUI.java # Old/unused connection GUI (deprecated)
 ```
 
 ## Requirements
@@ -64,7 +64,7 @@ This project is intentionally simple and has several limitations:
 - **No message persistence** → messages are not saved
 - **LAN only** → does not support internet communication out of the box
 
-## ▶️ Running the Project
+## Running the Project
 
 ### Compile
 ```bash
@@ -88,6 +88,6 @@ java ChatGUI
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and free to use.
